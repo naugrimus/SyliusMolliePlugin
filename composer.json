@@ -1,5 +1,5 @@
 {
-    "name": "bitbag/mollie-plugin",
+    "name": "naugrimus/mollie-plugin",
     "type": "sylius-plugin",
     "description": "Mollie payment plugin for Sylius applications.",
     "license": "MIT",
